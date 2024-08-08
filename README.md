@@ -21,11 +21,6 @@ This dataset was created by the company figure-eight and originally shared on th
 
 Tweet source: https://twitter.com/AnyOtherAnnaK/status/629195955506708480
 
-
-@misc{nlp-getting-started,
-    author = {Addison Howard, devrishi, Phil Culliton, Yufeng Guo},
-    title = {Natural Language Processing with Disaster Tweets},
-    publisher = {Kaggle},
-    year = {2019},
-    url = {https://kaggle.com/competitions/nlp-getting-started}
+Citation:
+Addison Howard, devrishi, Phil Culliton, Yufeng Guo. (2019). Natural Language Processing with Disaster Tweets. Kaggle. https://kaggle.com/competitions/nlp-getting-startedkaggle.com/competitions/nlp-getting-started}
 }
